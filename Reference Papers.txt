@@ -1,0 +1,21 @@
+      REFERENCES
+
+[1] Donald C Hood, & Ali S Raza. (2014). On improving the use of OCT imaging for detecting glaucomatous damage. British Journal of Ophthalmology, 98(Suppl 2), ii1. doi:10.1136/bjophthalmol-2014-305156
+
+[2] Hood, D. C., Greenstein, V. C., Holopigian, K., Bauer, R., Firoz, B., Liebmann, J. M., … Ritch, R.(2000). An Attempt to Detect Glaucomatous Damage to the Inner Retina with the Multifocal ERG. Investigative Ophthalmology & Visual Science, 41(6), 1570–1579.
+
+[3] Pascual-Prieto J, Burgos-Blasco B, Ávila Sánchez-Torija M, et al. Utility of optical coherence tomography angiography in detecting vascular retinal damage caused by arterial hypertension. European Journal of Ophthalmology. 2020;30(3):579-585. doi:10.1177/1120672119831159
+
+[4] Leung, C. K.-S., & Weinreb, R. N. (2009). Experimental detection of retinal ganglion cell damage in vivo. Experimental Eye Research, 88(4), 831–836. doi:10.1016/j.exer.2008.09.006
+
+[5] Sinha, B. B., Wary, A., Dhanalakshmi, R., & Balakrishnan, K. (2023). 5 - Transfer learning-based detection of retina damage from optical coherence tomography images. In D. J. Hemanth (Ed.), Computational Methods and Deep Learning for Ophthalmology (pp. 71–88). doi:10.1016/B978-0-323-95415-0.00002-4
+
+[6] Lavinsky, F., Wu, M., Schuman, J. S., Lucy, K. A., Liu, M., Song, Y., … Wollstein, G. (2018). Can Macula and Optic Nerve Head Parameters Detect Glaucoma Progression in Eyes with Advanced Circumpapillary Retinal Nerve Fiber Layer Damage? Ophthalmology, 125(12), 1907–1912. doi:10.1016/j.ophtha.2018.05.020
+
+[7] Courant, D.; Court, L.; Abadie, B.; Brouillet, B. (1989) Retinal damage thresholds from single-pulse laser exposures ... : Health physics (no date a) LWW. Available at: https://journals.lww.com/health-physics/Abstract/1989/05000/Retinal_Damage_Thresholds_from_Single_pulse_Laser.6.aspx
+
+[8] Wong, T. Y., Klein, R., Klein, B. E. K., Tielsch, J. M., Hubbard, L., & Nieto, F. J. (2001). Retinal Microvascular Abnormalities and their Relationship with Hypertension, Cardiovascular Disease, and Mortality. Survey of Ophthalmology, 46(1), 59–80.doi:10.1016/S0039-6257(01)00234-X
+
+[9] Nakayama, Y., Yokoi, T., Sachiko, N., Okuyama, M., & Azuma, N. (2013). Electroretinography combined with spectral domain optical coherence tomography to detect retinal damage in shaken baby syndrome. Journal of American Association for Pediatric Ophthalmology and Strabismus, 17(4),411–413. doi:10.1016/j.jaapos.2013.02.011
+
+[10] Leung, C. K.-S., Medeiros, F. A., Zangwill, L. M., Sample, P. A., Bowd, C., Ng, D., … Weinreb, R. N. (2007). American Chinese Glaucoma Imaging Study: A Comparison of the Optic Disc and Retinal Nerve Fiber Layer in Detecting Glaucomatous Damage. Investigative Ophthalmology & Visual Science, 48(6), 2644–2652. doi:10.1167/iovs.06-1332
